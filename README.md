@@ -27,7 +27,7 @@ Through meticulous analysis, AppleInsight has revealed significant insights:
 ## Conclusion and Advanced Analysis Insights
 
 Leveraging sophisticated machine learning models, AppleInsight goes beyond surface-level analysis to predict future consumer trends and product successes. Our findings underscore the critical role of user feedback in shaping Apple's product roadmap.
-![Output](https://github.com/mohjaiswal/AppleInsight/blob/main/AnalysisOutput.jpg)
+![[Output](https://github.com/mohjaiswal/AppleInsight/blob/0c30cb63738fb80e6238ece2181dd5e3a376ab5e/Python%20Challenge/AnalysisOutput.jpg)
 
 ### Strategic Insights from Data
 - **Highly rated models exhibit specific common features**, suggesting areas for focus in future product development.
