@@ -2,7 +2,7 @@ Based on the structure and style of the provided example, here's a README for yo
 
 # AppleInsight: Unveiling the Dynamics of Apple Product Reviews
 
-![Header Image](https://github.com/mohjaiswal/AppleInsight/blob/main/AppleInsightHeader.webp)
+![Header Image](https://github.com/mohjaiswal/AppleInsight/blob/05734e8ac23ae078c5c3ba729fc1189e133a286e/Python%20Challenge/AppleInsightsHeaderImage.webp)
 
 ### In-depth Review Analysis and Market Trends by Moh Jaiswal
 
